@@ -1,6 +1,7 @@
 # Mojito Client
 
 ![codeql workflow](https://github.com/bsladewski/mojito-client/workflows/CodeQL/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b30db1d5a92346d3963b1271eee23de3)](https://www.codacy.com/gh/bsladewski/mojito-client/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bsladewski/mojito-client&amp;utm_campaign=Badge_Grade)
 
 The frontend for the Mojito web application. Mojito is a tool for analyzing cryptocurrency prices and configuring bots to automate or assist with trading strategies.
 
