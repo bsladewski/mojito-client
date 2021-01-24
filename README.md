@@ -5,6 +5,8 @@
 
 The frontend for the Mojito web application. Mojito is a tool for analyzing cryptocurrency prices and configuring bots to automate or assist with trading strategies.
 
+The backend can be found in the [Mojito](https://github.com/bsladewski/mojito) repository.
+
 ## Dependencies
 
 This project uses [Node.js](https://nodejs.org/en/docs/guides/getting-started-guide/).
